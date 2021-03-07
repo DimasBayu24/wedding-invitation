@@ -17,6 +17,8 @@ export default function SimpleSlider() {
         slidesToShow: 1,
         vertical: true,
         slidesToScroll: 1,
+        swipeToSlide: true,
+        verticalSwiping: true,
 
     };
     return (

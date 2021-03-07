@@ -73,3 +73,17 @@ _filter: progid:DXImageTransform.Microsoft.Chroma(color='#ffffff');
 .slick-arrow {
   display: none !important;
 }
+
+  @media (max-width: 400px) {
+    .time-counter {
+      width: 50px !important;
+      height: 50px !important;
+      border-radius: 25px !important;
+    }
+  }
+
+  .time-counter {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+  }

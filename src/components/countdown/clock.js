@@ -33,18 +33,18 @@ class Clock extends Component {
     }
     render() {
         return (
-            <div className="flex flex-row text-center text-14  Black-color" >
-                <div className="background-transparent-white flex flex-col items-center justify-center" style={{ width: 100, height: 100, borderRadius: 50 }}>
+            <div className="flex flex-row text-center text-8 sm:text-14  Black-color" >
+                <div className="background-transparent-white flex flex-col items-center justify-center time-counter">
                     <div  >{this.leading0(this.state.days)}</div>
                     <p>Days</p>
                 </div>
                 <div className="m-4" />
-                <div className="background-transparent-white flex flex-col items-center justify-center" style={{ width: 100, height: 100, borderRadius: 50 }}>
+                <div className="background-transparent-white flex flex-col items-center justify-center time-counter">
                     <div >{this.leading0(this.state.hours)}</div>
                     <p>Hours</p>
                 </div>
                 <div className="m-4" />
-                <div className="background-transparent-white flex flex-col items-center justify-center" style={{ width: 100, height: 100, borderRadius: 50 }}>
+                <div className="background-transparent-white flex flex-col items-center justify-center time-counter">
                     <div >{this.leading0(this.state.minutes)}</div>
                     <p>Mins</p>
                 </div>
