@@ -4,10 +4,10 @@
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.1.1",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.3",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "axios": "^0.21.1",
     "google-map-react": "^2.1.9",
     "moment": "^2.29.1",
     "react": "^17.0.1",
@@ -18,6 +18,7 @@
     "react-scripts": "4.0.1",
     "react-slick": "^0.28.0",
     "react-slick-vertical": "^0.11.1",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.3",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
