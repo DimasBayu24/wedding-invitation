@@ -70,6 +70,6 @@ _filter: progid:DXImageTransform.Microsoft.Chroma(color='#ffffff');
   color: #000000;
 }
 
-.slick-slide {
-  display: none;
+.slick-arrow {
+  display: none !important;
 }
