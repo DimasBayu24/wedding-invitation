@@ -22,7 +22,7 @@ function Page2() {
                         </div>
                         <div className="h-10" />
                         <div className="flex flex-row justify-around items-center text-center w-full sm:px-10 px-0" >
-                            <p className=" w-4/6  text-8 sm:text-14 px-2 md:px-10">Lola Astri Nadita , S,Kom Putri dari Bpk. Dr.Ir.H. Sunadi, MP & Ibu Dr.Ir.H. Nita Yessirita, MP</p>
+                            <p className=" w-4/6  text-8 sm:text-14 px-2 md:px-10">Rabilal Adenan, S.Kom Putra dari Bpk. Ir.H. Gozali & Ibu Hj. Ita Hendriani Rambe, S.pd.,M.Pd</p>
                             <div className="sm:w-40 w-20" >
                                 <img src={prof2} />
                             </div>
