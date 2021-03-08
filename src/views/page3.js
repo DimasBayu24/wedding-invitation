@@ -12,7 +12,7 @@ const Page3 = () => {
         window.open("https://www.instagram.com/lolanadita/");
     }
     const moveToBilal = () => {
-        window.open("https://www.instagram.com/rabilaltjg//");
+        window.open("https://www.instagram.com/rabilaltjg/");
     }
     return (
         <div className="w-screen h-screen flex justify-center items-center">
